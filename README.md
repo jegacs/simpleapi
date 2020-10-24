@@ -22,4 +22,4 @@ For example, to test GET /hello
 Otherwise, to test the POST /shortenen endpoint:
 ![Image of shortenen endopint](https://raw.githubusercontent.com/jegacs/simpleapi/main/shortenen.jpeg)
 
-To develop the REST API, net/package was used. To test it, net/http/httptest native package was used to mocke requests onto the API. Also, the package smartystreets/goconvey was used to help with some assertions. 
+To develop the REST API, net/package was used. To test it, net/http/httptest native package was used to mock requests onto the API. Also, the package smartystreets/goconvey was used to help with some assertions. 
